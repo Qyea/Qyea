@@ -1,5 +1,5 @@
 ## Hi there 👋
-### <div align="center">Hello! My name is Nastassia, I am a 4th year student of the Faculty of Applied Mathematics and Computer Science of BSU. A frontend developer with work experience 👨‍💻 </div>  
+### <div align="center">My name is Nastassia, I am a 4th year student of the Faculty of Applied Mathematics and Computer Science of BSU. A frontend developer with work experience 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Github Profolio](https://github.com/Qyea/Tech-Showcase)  
