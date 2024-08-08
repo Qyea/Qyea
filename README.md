@@ -11,7 +11,7 @@
 
   
 
-- 🤠Fun fact: I use tabs over spaces  
+- 🤠Fun fact: I graduated from art school and dreamed of studying at the Faculty of Architecture 
   
 
 <br/>  
