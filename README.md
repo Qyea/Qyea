@@ -2,13 +2,13 @@
 ### <div align="center">My name is Nastassia, I am a 4th year student of the Faculty of Applied Mathematics and Computer Science of BSU. A frontend developer with work experience 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Github Profolio](https://github.com/Qyea/Tech-Showcase)  
+- 🔭 I’m currently working on this [project](https://github.com/Qyea/Ozi-remaster)  
   
 
--  ✍️ I’m currently learning VueJs  
+-  ✍️ I’m currently learning Angular
   
 
-
+- ⚡ Experience: You can find all the details in my [portfolio](https://github.com/Qyea/Tech-Showcase)
   
 
 - 🤠Fun fact: I graduated from art school and dreamed of studying at the Faculty of Architecture 
