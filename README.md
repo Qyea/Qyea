@@ -11,7 +11,7 @@
 - ⚡ Experience: You can find all the details in my [portfolio](https://github.com/Qyea/Tech-Showcase)
   
 
-- 🤠Fun fact: I graduated from art school and dreamed of studying at the Faculty of Architecture 
+- 🤠 Fun fact: I graduated from art school and dreamed of studying at the Faculty of Architecture 
   
 
 <br/>  
@@ -77,3 +77,4 @@
   
 
 <br/>  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Qyea)](https://git.io/streak-stats)
