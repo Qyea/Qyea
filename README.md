@@ -77,4 +77,5 @@
   
 
 <br/>  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Qyea)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Qyea)](https://git.io/streak-stats)
