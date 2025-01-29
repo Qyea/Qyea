@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### <div align="center">My name is Nastassia, I am a 4th year student of the Faculty of Applied Mathematics and Computer Science of BSU. A frontend developer with work experience 👨‍💻 </div>  
   
- <img align="right" alt="GIF" src="https://github.com/Qyea/Qyea/blob/1cdb8d63ffef8a6c9c8155a3a2a9c03fa7cb7354/9429524d-18a3-4f17-b092-ae35c4682ac4_8c92ae4d-1e66-4d3d-8eea-0c71c39696ff.gif?raw=true" width="512" height="400" />
+ <img align="right" alt="GIF" src="https://github.com/Qyea/Qyea/blob/ce1ada7012f200b0f491af3a5c8e371578e38600/gojo.gif?raw=true" width="470" height="400" />
 
 - 🚀 I’m currently learning Backend 
 - ⚡ You can find all the details of my Experience in my [portfolio](https://github.com/Qyea/Tech-Showcase)
