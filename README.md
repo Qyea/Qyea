@@ -66,16 +66,12 @@
 <br/>  
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Nastassia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Qyea&show_icons=true&hide_border=true" />
+  <div align="center">
+    <img alt="Nastassia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Qyea&show_icons=true&hide_border=true" />
+  </div>
 </details>
-<br />
-<br />
-<br/>  
-<br />
-<br />
-<br/>  
-<br />
-<br />
+
+
 
 ## Connect with me  
 <div align="center">
